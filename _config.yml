@@ -22,12 +22,30 @@ title: Kushal's Technical Portfolio
 email: kjaligusa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Concatenation of various projects I've worked on and experience that I have gained over the years.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kushalj1997/github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kushalj1997
+github_username: kushalj1997
+
+plainwhite:
+  name: Kushal Jaligama
+  tagline: Developer. Designer
+
+  social_links:
+    twitter: jollygama
+    github: kushalj1997
+    linkedIn: in/kushal-jaligama-0b305a70/ # format: locale/username
+
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+    - title: About
+      url: "/about"
+
 
 # Build settings
-theme: minima
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
