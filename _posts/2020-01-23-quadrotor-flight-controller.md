@@ -2,6 +2,7 @@
 layout: post
 title: "Quadcopter Flight Controller Project"
 img: "quadrotor/quadrotor-flight-controller.jpg"
+published: true
 ---
 
 During senior year of high school, assembled and wrote software for a quadcopter that took flight in summer 2015. I went through several designs iterations in both the software and hardware setups I used.
