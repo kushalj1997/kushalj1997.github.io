@@ -13,6 +13,10 @@ social-github: kushalj1997 # add your Github handle
 social-linkedin: kushal-jaligama-0b305a70/ # add your Linkedin handle
 social-email: kjaligusa@gmail.com
 
+collections:
+  projects:
+    output: true
+
 # Tracker
 analytics: # Google Analytics
 
