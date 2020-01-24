@@ -6,13 +6,14 @@ permalink: /about/
 # Kushal Jaligama's Technical Portfolio
 
 + Important Links
+    - [Detailed Technical Portfolio](http://tinyurl.com/KushalTechnicalPortfolio)
     - [GitHub](http://github.com/kushalj1997)
     - [Kushal's LinkedIn](http://tinyurl.com/KushalLinkedIn) / I'm always open to messages on LinkedIn!
     - [Resume - Email me for access if needed!](https://tinyurl.com/KushalResumeGoogleDrive)
     - Email: kjaligusa@gmail.com
 
 + Education
-    - University of Michigan, Ann Arbor <img src="/assets/img/michigan.jpg" alt="goblue" width="200"/>
+    - <img src="/assets/img/michigan.jpg" alt="goblue" width="100"/> University of Michigan, Ann Arbor
     - Bachelor of Science, Double Major in Cognitive Science and Computer Science
     - Graduated December 20, 2019
 
