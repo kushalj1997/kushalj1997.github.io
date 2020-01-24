@@ -1,30 +1,24 @@
 ---
-layout: default
+layout: main
 title: About
 permalink: /about/
 ---
-
 # Kushal Jaligama's Technical Portfolio
-[GitHub](http://github.com/kushalj1997)
 
-[Kushal's LinkedIn](http://tinyurl.com/KushalLinkedIn) / I'm always open to messages on LinkedIn!
++ Important Links
+    - [GitHub](http://github.com/kushalj1997)
+    - [Kushal's LinkedIn](http://tinyurl.com/KushalLinkedIn) / I'm always open to messages on LinkedIn!
+    - [Resume - Email me for access if needed!](https://tinyurl.com/KushalResumeGoogleDrive)
+    - Email: kjaligusa@gmail.com
 
-[Resume - Email me for access if needed!](https://tinyurl.com/KushalResumeGoogleDrive)
++ Education
+    - University of Michigan, Ann Arbor <img src="/assets/img/michigan.jpg" alt="goblue" width="200"/>
+    - Bachelor of Science, Double Major in Cognitive Science and Computer Science
+    - Graduated December 20, 2019
 
-Email: kjaligusa@gmail.com
++ Relevant Coursework:
+    - Reinforcement Learning, Artificial Intelligence, Computer Vision, Advanced Object Oriented Programming, Neural Engineering, Data Structures and Algorithms, Computer Architecture, Web Systems, Computational Linguistics, Philosophy of Mind and Machine
 
----
-### Education
-Bachelor of Science
-Double Major in Cognitive Science and Computer Science
-University of Michigan, Ann Arbor
-Graduated December 20, 2019
-
----
-### Relevant Coursework:
-Reinforcement Learning, Artificial Intelligence, Computer Vision, Advanced Object Oriented Programming, Neural Engineering, Data Structures and Algorithms, Computer Architecture, Web Systems, Computational Linguistics, Philosophy of Mind and Machine
-
----
 ### Focus, Goals, and Interests
 - Apply Software Engineering to Solve Difficult Problems
 - Write clean, performant, maintainable code in C/C++, Python, and use software as a creative outlet to bring things to life.
@@ -35,4 +29,4 @@ Reinforcement Learning, Artificial Intelligence, Computer Vision, Advanced Objec
 NOTE: Please Download the codebases to view them - many of them are stored on Google Drive.
 
 You can find the source code for this page at Github:
-[kushalj1997.github.io repo][https://github.com/kushalj1997/kushalj1997.github.io]
+[http://kushalj1997.github.io/](https://github.com/kushalj1997/kushalj1997.github.io)
