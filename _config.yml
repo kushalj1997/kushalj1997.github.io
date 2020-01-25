@@ -10,15 +10,14 @@ about-author: Software Engineer, Roboticist, Interested in Human Cognition and A
 about-university: University of Michigan, Ann Arbor - Sep 2015 - Dec 2019
 about-majors: Computer Science and Cognitive Science
 about-internships: Previous Intern at Magna International, SpaceX, Tesla
+about-skills: C/C++, Python, PID Control Systems, SIL/HIL, Validation, Continuous Integration, Computer Vision, Path Planning
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: kushalj1997 # add your Github handle
 social-linkedin: kushal-jaligama-0b305a70/ # add your Linkedin handle
 social-email: kjaligusa@gmail.com
-
-collections:
-  projects:
-    output: true
+social-soundcloud: https://soundcloud.com/kushal-jaligama/
+social-audiomack: https://audiomack.com/artist/jollygama
 
 # Tracker
 analytics: # Google Analytics

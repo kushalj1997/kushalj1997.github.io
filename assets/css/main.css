@@ -763,6 +763,27 @@ template {
   color: #999;
 }
 
+.button {
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #ffffffff;
+  background-color: rgb(30, 30, 50);
+  border: none;
+  border-radius: 15px;
+}
+
+.button:hover {
+  background-color: #294358
+}
+
+.button:active {
+  background-color: #777779;
+}
+
 *,
 *::after,
 *::before {
@@ -938,17 +959,18 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #1d3036;
 }
 
 .about {
   margin: 0 0 40px;
   text-align: center;
+  color: #ffffffff;
 }
 
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
   border-radius: 100%;
@@ -974,13 +996,13 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family: 'Menlo';
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #ffffff;
   font-weight: 700;
 }
 
@@ -993,8 +1015,8 @@ table tfoot td {
   transform: translateX(-50%);
   bottom: 0;
   display: block;
-  width: 7px;
-  height: 7px;
+  width: 10px;
+  height: 10px;
   -webkit-border-radius: 100%;
   border-radius: 100%;
   background-color: #515151;
@@ -1026,9 +1048,13 @@ table tfoot td {
   align-items: stretch;
 }
 
+.contact {
+  color: #ffffff;
+}
+
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #ffffff;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1162,12 +1188,12 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: "Menlo";
   text-decoration: none;
   color: #263959;
 }
