@@ -1444,7 +1444,7 @@ a.newer-posts:hover {
     justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #1d3036;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
     box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
@@ -1460,8 +1460,8 @@ a.newer-posts:hover {
   }
 
   .about img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     -webkit-border-radius: 100%;
     border-radius: 100%;
     margin-bottom: 10px;
@@ -1497,6 +1497,10 @@ a.newer-posts:hover {
 @media only screen and (max-width: 480px) {
   .content-box {
     padding: 10px;
+  }
+
+  .about .author-name {
+    color: #ffffff;
   }
 
   .post {

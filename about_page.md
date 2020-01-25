@@ -19,6 +19,8 @@ permalink:  /about_page/
     - Relevant Coursework:
     - Reinforcement Learning, Artificial Intelligence, Computer Vision, Advanced Object Oriented Programming, Neural Engineering, Data Structures and Algorithms, Computer Architecture, Web Systems, Computational Linguistics, Philosophy of Mind and Machine
 
+- **Skills:** {{ site.about-skills }}
+
 - **Focus, Goals, and Interests**
     -  Apply Software Engineering to Solve Difficult Problems
     -  Write clean, performant, maintainable code in C/C++, Python, and use software as a creative outlet to bring things to life.
