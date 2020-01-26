@@ -3,6 +3,7 @@ layout:  main
 title:  About Kushal
 permalink:  /about_page/
 ---
+{{markdownify}}
 # Kushal Jaligama Technical Portfolio
 
 - **Important Links**

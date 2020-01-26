@@ -13,5 +13,9 @@
     "gulp-sass": "^3.1.0",
     "imagemin-pngquant": "^5.0.0",
     "three": "^0.112.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
   }
 }

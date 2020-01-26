@@ -1,6 +1,62 @@
 ---
 layout: main
 ---
+<!-- 
+<body>
+  <canvas id="myCanvas" width="300" height="150"></canvas>
+  <script src="./threeDrobotworld/js/three.js"></script>
+  <script>
+    // Create the canvas onto which our scene will be rendered
+    const canvas = document.querySelector("#myCanvas");
+    var renderer = new THREE.WebGLRenderer({
+      canvas
+    });
+
+    // Create the camera viewing the scene and set frustum parameters
+    const fov = 75;
+    const aspect = 2; // the canvas default
+    const near = 0.1;
+    const far = 5;
+    const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
+
+    // Create the scene we will view
+    var scene = new THREE.Scene();
+
+    // Create the geometry and mesh material for the box we will display
+    const boxWidth = 1;
+    const boxHeight = 1;
+    const boxDepth = 1;
+    const geometry = new THREE.BoxGeometry(boxWidth, boxHeight, boxDepth);
+
+    var material = new THREE.MeshBasicMaterial({
+      color: 0x00ff00
+    });
+
+    var cube = new THREE.Mesh(geometry, material);
+    scene.add(cube);
+
+    // var obst_geometry = new THREE.BoxGeometry(4, 4, 4);)
+    // var obst_material = new THREE.MeshBasicMaterial({
+    //   color: 0x00ff22
+    // });
+    // var obstacle = new THREE.Mesh(geometry, obst_material);
+    // scene.add(obstacle);
+
+    camera.position.z = 5;
+
+    var animate = function render(time) {
+      time *= 0.001; // convert time to seconds
+
+      cube.rotation.x = time;
+      cube.rotation.y = time;
+
+      renderer.render(scene, camera);
+
+      requestAnimationFrame(render);
+    };
+    requestAnimationFrame(render);
+  </script>
+</body> -->
 
 {% for post in paginator.posts %}
 <article class="post">
