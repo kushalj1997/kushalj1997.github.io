@@ -84,7 +84,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: Rubik;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -140,7 +140,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: Rubik;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -231,7 +231,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: Rubik;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -764,16 +764,8 @@ template {
 }
 
 .button {
-  display: inline-block;
-  padding: 5px 10px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #ffffffff;
-  background-color: rgb(30, 30, 50);
-  border: none;
-  border-radius: 15px;
+  border: 0;
+  border-radius: 0.25rem;
 }
 
 .button:hover {
@@ -796,7 +788,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Rubik';
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -996,7 +988,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'Menlo';
+  font-family: 'Rubik';
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1193,7 +1185,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: "Menlo";
+  font-family: "Rubik";
   text-decoration: none;
   color: #263959;
 }

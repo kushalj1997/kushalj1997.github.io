@@ -68,8 +68,8 @@ layout: main
   {% endif %}
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | truncatewords: 25 }}</p>
-    <span class="post-date">{{post.date | date: '%B %Y'}}&nbsp;</span>
+    <span align="left" class="post-date">{{post.date | date: '%B %Y'}}&nbsp;</span>
+    <p>{{ post.content | markdownify | truncatewords: 25 }}</p>
   </div>
 </article>
 {% endfor %}
