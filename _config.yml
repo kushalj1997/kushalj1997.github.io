@@ -7,7 +7,7 @@ permalink: ':title/'
 author: Kushal Jaligama # add your name
 author-img: kushal-jaligama.jpg # add your photo
 about-author: Software Engineer, Roboticist, Interested in Human Cognition and AI, Long Distance Runner # add description
-about-university: University of Michigan, Ann Arbor - Sep 2015 - Dec 2019
+about-university: University of Michigan, Ann Arbor => Sep 2015 - Dec 2019
 about-majors: Computer Science and Cognitive Science
 about-internships: Previous Intern at Magna International, SpaceX, Tesla
 about-skills: C/C++, Python, PID Control Systems, SIL/HIL, Validation, Continuous Integration, Computer Vision, Robotics, TensorFlow, Pytorch
