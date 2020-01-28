@@ -5,7 +5,10 @@ img: "neural-eng/neural-eng.png"
 published: true
 ---
 
-[TensorFlow Seizure Classification (Python)](https://drive.google.com/drive/folders/1ny_rpRuls5TKembJwWOjQ8je2l1HZpg9)
+I learned how to analyze neurological data and establish neural correlates of behavior.
+
+- [TensorFlow Seizure Classification (Python)](https://drive.google.com/drive/folders/1ny_rpRuls5TKembJwWOjQ8je2l1HZpg9)
+- [Neural Engineering Portfolio](https://docs.google.com/document/d/1SgRv_g06IvixtYQasDOgOwFVzEfaFBulhbgAKH8h3KQ/edit?usp=sharing)
 
 - Utilized TensorFlow, Keras, and Eager Execution to train recurrent neural network that classify seizures in EEG dataset
 - Achieved 88.89% training accuracy and 87.56% testing accuracy with 50 neuron, 3 hidden layer network architecture
