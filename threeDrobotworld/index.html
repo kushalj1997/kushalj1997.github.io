@@ -24,7 +24,7 @@ published: true
 	<script>
 		var c = document.getElementById("myCanvas");
 		var ctx = c.getContext("2d");
-		ctx.translate(70, 70);
+		// ctx.translate(70, 70);
 	</script>
 	<script src="./js/three.js"></script>
 	<script>
@@ -55,14 +55,14 @@ published: true
 			-1.0, -1.0, 1.0
 		]);
 
-		// itemSize = 3 because there are 3 values (components) per vertex
-		geometry2.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
-		var material2 = new THREE.MeshBasicMaterial({
-			color: 0xff0000
-		});
-		var mesh2 = new THREE.Mesh(geometry, material);
+		// // itemSize = 3 because there are 3 values (components) per vertex
+		// geometry2.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
+		// var material2 = new THREE.MeshBasicMaterial({
+		// 	color: 0xff0000
+		// });
+		// var mesh2 = new THREE.Mesh(geometry, material);
 
-		scene.add(mesh2);
+		// scene.add(mesh2);
 
 		camera.position.z = 5;
 
